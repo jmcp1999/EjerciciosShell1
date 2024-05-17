@@ -2,7 +2,7 @@
 function parametros()
 {
     fichero="carpeta personal"
-    echo "en el fichero $fichero existen" $# "parametros"
+    echo "En el fichero $fichero existen" $# "parametros"
 
 }
 
